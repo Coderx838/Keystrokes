@@ -1,0 +1,21 @@
+# OS / System
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / Tooling
+.vscode/
+.idea/
+*.swp
+*.swo
+.wakatime-project
+
+# Node / Dependencies
+node_modules/
+npm-debug.log*
+
+# Backups & Temporary files
+old/
+*.bak
+*.tmp
