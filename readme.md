@@ -6,8 +6,7 @@
 
 
 # *Screenshot:*
-
-![alt text](image.png)
+![alt text](image-1.png)
 (*This is the hero frame yeh!*)
 
 
@@ -21,8 +20,6 @@ python -m http.server 3333
 
 # *Stuff used:*
 - A big thanks to [Crescent](https://crescent.hackclub.com/) for UI inspiration.
-- All the images inside [assets](assets/) is created by ai(cuz i cant draw image by hands blah blah).
-- Except the images all the code is hand written by me(yeh catty).
 
 -------------------------------------------------------------------------------------------------------------------
 
